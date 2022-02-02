@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu938" alt="priyanshu938" /></a> </p>
 
-- 🔭 I’m currently working [The Online Paging Tool](https://online-paging-tool.herokuapp.com/)
-
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://priyanshu938.github.io/My-Portfolio/](https://priyanshu938.github.io/My-Portfolio/)
 
