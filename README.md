@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyanshutiwari6789@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_k_Xp6QImaYmQSxY8gnvuJN6yIx3wSBw/view?usp=sharing](https://drive.google.com/file/d/1C_dNKzfd0xQAWPegsuPsAGaW5dCg02ge/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_k_Xp6QImaYmQSxY8gnvuJN6yIx3wSBw/view?usp=sharing](https://drive.google.com/file/d/1aHRZA20URkiV7vJj5YuqFyegxs4BYi8B/view?usp=sharing)
 
 - ⚡ Fun fact **I think programming is co-ding🤞**
 
