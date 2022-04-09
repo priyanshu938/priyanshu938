@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu938" alt="priyanshu938" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Machine Learning**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://priyanshu938.github.io/My-Portfolio/](https://priyanshu938.github.io/My-Portfolio/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **priyanshutiwari6789@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_k_Xp6QImaYmQSxY8gnvuJN6yIx3wSBw/view?usp=sharing](https://drive.google.com/file/d/1aHRZA20URkiV7vJj5YuqFyegxs4BYi8B/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b4YKKy_JMdOxxvcUYN3j4Q_j4m3Ra_9c/view?usp=sharing](https://drive.google.com/file/d/1b4YKKy_JMdOxxvcUYN3j4Q_j4m3Ra_9c/view?usp=sharing)
 
 - ⚡ Fun fact **I think programming is co-ding🤞**
 
