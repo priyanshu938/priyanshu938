@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu938" alt="priyanshu938" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m a **MERN Stack Developmer**
 
-- 👨‍💻 All of my projects are available at [https://priyanshu938.github.io/My-Portfolio/](https://priyanshu938.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://priyanshu-tiwari-portfolio.netlify.app/).
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React**.
 
 - 📫 How to reach me **priyanshutiwari6789@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b4YKKy_JMdOxxvcUYN3j4Q_j4m3Ra_9c/view?usp=sharing](https://drive.google.com/file/d/1b4YKKy_JMdOxxvcUYN3j4Q_j4m3Ra_9c/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b4YKKy_JMdOxxvcUYN3j4Q_j4m3Ra_9c/view).
 
-- ⚡ Fun fact **I think programming is co-ding🤞**
+- ⚡ Fun fact **I think programming is co-ding🤞**.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
