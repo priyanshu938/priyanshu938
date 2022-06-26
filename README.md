@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **priyanshutiwari6789@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b4YKKy_JMdOxxvcUYN3j4Q_j4m3Ra_9c/view).
-
 - ⚡ Fun fact **I think programming is co-ding🤞**.
 
 ### Blogs posts
