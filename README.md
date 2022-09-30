@@ -39,4 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu938&show_icons=true&locale=en" alt="priyanshu938" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu938&" alt="priyanshu938" /></p>
-[![@priyanshu6789's Holopin board](https://holopin.io/api/user/board?user=priyanshu6789)](https://holopin.io/@priyanshu6789)
+
