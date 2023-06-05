@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshu938" alt="priyanshu938" /></a> </p>
 
-- 🌱 I’m a **MERN Stack Developmer**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://priyanshu-tiwari-portfolio.netlify.app/).
 
