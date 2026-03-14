@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **MERN Stack Developer**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://priyanshu-tiwari-portfolio.netlify.app/).
+- 👨‍💻 All of my projects are available at [Portfolio](https://priyanshu-portfolio-v3.vercel.app/).
 
 - 💬 Ask me about **React**.
 
